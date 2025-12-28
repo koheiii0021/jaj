@@ -1,2 +1,8 @@
+# Java compiled outputs
 *.class
 out/
+
+# (optional) IDE
+.vscode/
+.idea/
+*.iml
