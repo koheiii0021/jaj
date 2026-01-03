@@ -1,6 +1,6 @@
 package app8;
 
-public class Football extends Club{
+public class Football extends Club {
     public Football(String name) {
         super(name);
     }

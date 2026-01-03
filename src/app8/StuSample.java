@@ -14,7 +14,8 @@ public class StuSample {
         Student stu2 = new Student("桜井", fb);
         stu2.display();
         stu2.practice();
-
+        
+        
         Student stu3 = new Student("佐々木", bb);
         stu3.display();
         stu3.practice();
